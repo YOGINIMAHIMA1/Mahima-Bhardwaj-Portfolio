@@ -70,7 +70,7 @@ const type = new Typed('.multiple-text-internship', {
 
 
 // Contact Form
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxUfYmVS3zum3l0k4gZP91iSnDoW2lH9X0jUoRZaeAo5u-rQd4vJEw5khaRudlz7x_DOA/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzPb01XwxIioYcLBNAPPKJhcbYArw1k6HV9-XdyPjPTmEDfaeAfrIhILlHNZ2v6wYbxLQ/exec'
 const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 
